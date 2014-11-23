@@ -1,0 +1,4 @@
+(cond ( nil 3) (t 5))
+(cond (nil (quote a)) (t (quote a)))
+(cond (nil a) (t (quote a)))
+(cond (nil a) (t a)))

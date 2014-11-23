@@ -1,0 +1,5 @@
+(DEFUN F1 () NIL)
+(F1)
+(DEFUN F2 (X Y) NIL)
+(DEFUN F2 (X Y) T)
+ 

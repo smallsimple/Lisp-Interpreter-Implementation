@@ -1,0 +1,3 @@
+(DEFUN SILLY (A B) (PLUS A B))
+
+(SILLY . ( (AB) . (PLUS A B) ) )

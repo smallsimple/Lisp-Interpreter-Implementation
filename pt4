@@ -1,0 +1,3 @@
+(minus 3 5)
+(minus (quote 3) 8)
+(minus (quote a) 8)

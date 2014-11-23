@@ -1,0 +1,6 @@
+(remainder 5 3)
+(remainder -5 3)
+(remainder 5 -3)
+(remainder -5 -3)
+(remainder (quote -5) -3)
+(remainder 3 (quote a))

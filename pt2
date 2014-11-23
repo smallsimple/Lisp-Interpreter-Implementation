@@ -1,0 +1,5 @@
+(int 2)
+(int (quote a))
+(int (quote (1 2)))
+(int (quote (a b)))
+(int (car (quote (3 a))))

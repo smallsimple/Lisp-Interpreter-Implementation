@@ -1,0 +1,4 @@
+(quotient 5 2)
+(quotient 6 2)
+(quotient (quote 10) 2)
+(quotient (quote a) 2)

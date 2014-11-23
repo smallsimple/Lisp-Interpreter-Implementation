@@ -1,0 +1,4 @@
+(plus 3 5)
+(plus (quote 3) 5)
+(plus (quote a) 5)
+(plus a 5)

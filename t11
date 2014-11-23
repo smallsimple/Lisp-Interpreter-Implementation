@@ -1,0 +1,5 @@
+(atom (quote d))
+(atom (quote (3 . 10)))
+(atom 3)
+(atom (3 4))
+(atom d)

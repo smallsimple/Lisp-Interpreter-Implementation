@@ -1,0 +1,4 @@
+(less (plus 1 1) 2)
+(less 1 2)
+(less 2 1)
+(less (quote a) 3)

@@ -1,0 +1,3 @@
+(greater (minus  2 1) -1)
+(greater 3 4)
+(greater a 3)

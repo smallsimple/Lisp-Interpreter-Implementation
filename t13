@@ -1,0 +1,1 @@
+(defun car (x) (plus x x))
